@@ -1,0 +1,72 @@
+{
+  "Info": {
+    "Class": "",
+    "SubClass": "",
+    "Background": "",
+    "Alignment": "",
+    "Level": ""
+  },
+  "Names": { "Player": "", "Character": "" },
+  "Base Stats": {
+    "Strength": 0,
+    "Dexterity": 0,
+    "Constitution": 0,
+    "Intelligence": 0,
+    "Wisdom": 0,
+    "Charisma": 0
+  },
+  "Abilities": {
+    "Strength": {
+      "Athelitcs": { "proficiency": 0, "expertise": 0, "bonus": 0 }
+    },
+    "Dexterity": {
+      "Acrobatics": { "proficiency": 0, "expertise": 0, "bonus": 0 },
+      "Sleight Of Hand": { "proficiency": 0, "expertise": 0, "bonus": 0 },
+      "Stealth": { "proficiency": 0, "expertise": 0, "bonus": 0 }
+    },
+    "Intelligence": {
+      "Arcana": { "proficiency": 0, "expertise": 0, "bonus": 0 },
+      "History": { "proficiency": 0, "expertise": 0, "bonus": 0 },
+      "Investigation": { "proficiency": 0, "expertise": 0, "bonus": 0 },
+      "Nature": { "proficiency": 0, "expertise": 0, "bonus": 0 },
+      "Religion": { "proficiency": 0, "expertise": 0, "bonus": 0 }
+    },
+    "Wisdom": {
+      "Animal Handling": { "proficiency": 0, "expertise": 0, "bonus": 0 },
+      "Insight": { "proficiency": 0, "expertise": 0, "bonus": 0 },
+      "Medicine": { "proficiency": 0, "expertise": 0, "bonus": 0 },
+      "Perception": { "proficiency": 0, "expertise": 0, "bonus": 0 },
+      "Survival": { "proficiency": 0, "expertise": 0, "bonus": 0 }
+    },
+    "Charisma": {
+      "Deception": { "proficiency": 0, "expertise": 0, "bonus": 0 },
+      "Intimidation": { "proficiency": 0, "expertise": 0, "bonus": 0 },
+      "Performance": { "proficiency": 0, "expertise": 0, "bonus": 0 },
+      "Persuasion": { "proficiency": 0, "expertise": 0, "bonus": 0 }
+    }
+  },
+  "Saving Throws Means ": " If you are profficient or not",
+  "Saving Throws": {
+    "Strength": 0,
+    "Dexterity": 0,
+    "Constitution": 0,
+    "Intelligence": 0,
+    "Wisdom": 0,
+    "Charisma": 0
+  },
+  "Either a strict value, or a bonus to the given passive score": " (initiative bonus means any bonuses that dont come from the dex mod) ",
+  "Passives": {
+    "Perception": 0,
+    "Insight": 0,
+    "Investigation": 0,
+    "Dark Vision": 60,
+    "Speed": 0,
+    "Armor Class": 0,
+    "Initiative Bonus": "",
+    "Proficiency Bonus": 0
+  },
+  "Hit Dice": { "Type": "d6", "Max": 0, "Left": 0 },
+  "Death Saves": { "Success": 0, "Fail": 0 },
+  "Hp": { "Max": 0, "Current": 0, "Temporary": 0 },
+  "Proficiencies": {}
+}

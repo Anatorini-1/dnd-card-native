@@ -1,0 +1,28 @@
+{
+  "Weapons": {
+    "0": {
+      "Name": "Unarmed Strike",
+      "Hit": "+4",
+      "Damage": "3 Bludgeoning",
+      "Notes": ""
+    },
+    "1": {
+      "Name": "Weapons",
+      "Hit": "+0",
+      "Damage": "0d0 Null",
+      "Notes": ""
+    }
+  },
+  "Money": { "CP": 0, "SP": 0, "EP": 0, "GP": 0, "PP": 0 },
+  "Weight": { "Encumbered": 0, "Push/Drag/Lift": 0 },
+  "Items": [
+    { "Name": "Item1", "Quantity": 1, "Weight": 0 },
+    { "Name": "Item2", "Quantity": 2, "Weight": 5 }
+  ],
+  "Attuned Magic Items": { 
+    "0":
+    {
+        "Name": "----", "Quantity": 1, "Weight": 0
+         }
+    }
+}
